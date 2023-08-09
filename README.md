@@ -20,10 +20,9 @@ Verified that heading elements are used in sequential order for improved navigat
 Added a concise and descriptive title to the webpage for better understanding and context.
 To view the changes visually, refer to the following screenshot:
 
-md
-Copy code
-![Image](https://github.com/grayd500/module-one-challenge/blob/main/docs/assets/images/Horiseon%20Landing%20Page%20Module%20One%20Project.png)
 
+![Image](https://github.com/grayd500/module-one-challenge/blob/main/docs/assets/images/Horiseon%20Landing%20Page%20Module%20One%20Project.png)
+Screenshot: Horiseon Landing Page
 
 Credits
 This project was completed individually.
