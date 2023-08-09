@@ -3,11 +3,11 @@ Horiseon Website Accessibility Refactor
 Description
 The motivation behind this project was to enhance the accessibility and usability of the Horiseon website. The project aimed to improve the codebase, making it more accessible to users with disabilities while maintaining its functionality. The goal was to leave the codebase cleaner and more maintainable by adhering to best practices and accessibility standards.
 
-To view the updated Horiseon website, follow these steps:
+To view the updated Horiseon website visit: https://grayd500.github.io/module-one-challenge/
 
-1. Clone or download this repository to your local machine.
+1. Clone or download this repository to your local machine: https://github.com/grayd500/module-one-challenge
 
-2. Open the index.html file in a web browser.
+2. Open the index.html file and style.css file in a VSS Code or a similar application.
 
 3. Explore the website to see the changes made for improved accessibility and usability.
 
@@ -22,7 +22,8 @@ To view the changes visually, refer to the following screenshot:
 
 md
 Copy code
-![Screen-shot Of Landing Page](./module-one-challenge/Develop/assets/images/Horiseon%20Landing%20Page%20Module%20One%20Project.png)
+![Image](https://github.com/grayd500/module-one-challenge/blob/main/docs/assets/images/Horiseon%20Landing%20Page%20Module%20One%20Project.png)
+
 
 Credits
 This project was completed individually.
